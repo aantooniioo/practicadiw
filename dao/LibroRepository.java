@@ -1,6 +1,5 @@
-package com.diw.practica.repository;
+package com.diw.practica.dao;
 
-import java.util.List;
 import com.diw.practica.model.Libro;
 import org.springframework.data.jpa.repository.JpaRepository;
 
