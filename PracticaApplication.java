@@ -31,8 +31,8 @@ public class PracticaApplication {
         libro.setIsbn("124563789");
         libroRepository.save(libro);
 
-        usuario.setNombre("Antonio");
-        usuario.setContrasena("1234");
+        usuario.setUsuario("Antonio");
+        usuario.setPassword("1234");
         usuarioRepository.save(usuario);
 
     }
