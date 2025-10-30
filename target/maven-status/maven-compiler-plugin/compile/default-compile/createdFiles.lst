@@ -1,0 +1,8 @@
+com\diw\practica\dao\UsuarioRepository.class
+com\diw\practica\model\Libro.class
+com\diw\practicadiw\PracticadiwApplication.class
+com\diw\practica\model\Usuario.class
+com\diw\practica\model\Usuario$rol.class
+com\diw\practica\PracticaApplication.class
+com\diw\practica\model\Libro$estado.class
+com\diw\practica\dao\LibroRepository.class
