@@ -18,7 +18,7 @@ public class Libro {
     @Enumerated (EnumType.STRING)
     private estado estadoLibro;
 
-    public Libro() {}
+    public Libro () {}
 
     public Libro(String titulo, String autor, String isbn, Integer anioPublicacion, String editorial, estado estadoLibro) {
         this.titulo = titulo;

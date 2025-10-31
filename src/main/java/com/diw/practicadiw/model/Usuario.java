@@ -1,10 +1,7 @@
 package com.diw.practicadiw.model;
-
-import com.diw.practica.model.Libro;
 import jakarta.persistence.*;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 @Entity
 public class Usuario {
@@ -19,7 +16,7 @@ public class Usuario {
     private Rol rol;
 
     @OneToMany
-    private List<com.diw.practica.model.Libro> libros = new ArrayList<>();
+    private List<Libro> libros = new ArrayList<>();
 
     public Usuario() {}
 
@@ -53,7 +50,7 @@ public class Usuario {
         this.rol = rol;
     }
 
-    public List<com.diw.practica.model.Libro> getLibros() {
+    public List<Libro> getLibros() {
         return libros;
     }
 
