@@ -1,6 +1,11 @@
-C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practica\dao\LibroRepository.java
-C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practica\dao\UsuarioRepository.java
-C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practica\model\Libro.java
-C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practica\model\Usuario.java
-C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practica\PracticaApplication.java
-C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\PracticadiwApplication.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\beans\AdminService.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\beans\AdminServiceImpl.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\beans\UsuarioService.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\beans\UsuarioServiceImpl.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\contoller\AdminController.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\contoller\UsuarioController.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\model\Libro.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\model\Usuario.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\PracticaApplication.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\repository\LibroRepository.java
+C:\Users\anton\IdeaProjects\practicadiw\src\main\java\com\diw\practicadiw\repository\UsuarioRepository.java
