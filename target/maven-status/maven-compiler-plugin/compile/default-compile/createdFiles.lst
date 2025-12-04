@@ -1,0 +1,13 @@
+com\diw\practicadiw\contoller\AdminController.class
+com\diw\practicadiw\beans\AdminServiceImpl.class
+com\diw\practicadiw\beans\UsuarioServiceImpl.class
+com\diw\practicadiw\model\Libro$estado.class
+com\diw\practicadiw\contoller\UsuarioController.class
+com\diw\practicadiw\model\Usuario.class
+com\diw\practicadiw\model\Usuario$Rol.class
+com\diw\practicadiw\beans\AdminService.class
+com\diw\practicadiw\model\Libro.class
+com\diw\practicadiw\beans\UsuarioService.class
+com\diw\practicadiw\PracticaApplication.class
+com\diw\practicadiw\repository\LibroRepository.class
+com\diw\practicadiw\dao\UsuarioRepository.class
