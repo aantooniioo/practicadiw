@@ -67,3 +67,4 @@ public interface UsuarioService {
      */
     Optional<Libro> devolverPrestamo(Integer usuarioId, Integer libroId);
 }
+
